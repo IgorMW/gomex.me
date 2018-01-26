@@ -49,7 +49,7 @@ Material sugerido:
 - [Livro Redes de Computadores - Andrew S Tanenbaum](https://www.estantevirtual.com.br/livros/andrew-s-tanenbaum/redes-de-computadores/2516815423?q=Redes+de+Computadores)
 - [Redes de computadores e a internet uma nova abordagem - James Kurose e Keith Ross](https://www.estantevirtual.com.br/livros/james-f-kurose-keith-w-ross/redes-de-computadores-e-a-internet-uma-nova-abordagem/2190281067)
 
-Estude também sobre funcionamento do sistema operacional, o que são processos, como funciona o escolanamento de processamento e afins.
+Estude também sobre funcionamento do sistema operacional, o que são processos, como funciona o escalonamento de processos e afins.
 
 Material sugerido:
 
